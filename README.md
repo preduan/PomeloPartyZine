@@ -4,7 +4,7 @@ Various prints were made using aqua, red, blue, green, and yellow! Using this zi
 
 ![Pomelo on top of physical zine](Photos_and_Process/PhysicalPomelo.jpg)
 ![Physical copy of zine with a green pomelo in front of an aqua background on the cover](Photos_and_Process/RisoPrintedZine.jpg)
-![Zine spread](Photos_and_Process/Zine_p1.jpg)
-![Cover page of the zine](Photos_and_Process/Zine_p2_cover.jpg)
+![Zine spread](Photos_and_Process/Zine_p1.png)
+![Cover page of the zine](Photos_and_Process/Zine_p2_cover.png)
 ![Draft of printed zine as yellow and red](Photos_and_Process/PrintedZineDraft.jpg)
 ![Piles of drying zine pages](Photos_and_Process/PilesOfZines.jpg)
